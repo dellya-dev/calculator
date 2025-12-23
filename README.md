@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+# 🧮 Calculator 
 
 A simple **Calculator Application** built using **Vanilla JavaScript**. This project focuses on implementing basic arithmetic operations, DOM manipulation, and user interaction without using any external libraries or frameworks.
 
@@ -7,7 +7,7 @@ A simple **Calculator Application** built using **Vanilla JavaScript**. This pro
 ## 🚀 Live Demo
 
 ```
-https://dellya-dev.github.io/calculator-app/
+https://dellya-dev.github.io/calculator/
 ```
 
 ---
@@ -60,7 +60,7 @@ https://dellya-dev.github.io/calculator-app/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/dellya-dev/calculator-app.git
+   git clone https://github.com/dellya-dev/calculator.git
    ```
 2. Open `index.html` in your browser
 
